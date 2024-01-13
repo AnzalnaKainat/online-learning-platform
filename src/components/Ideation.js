@@ -4,12 +4,9 @@ import IdeationImage from '../assets/Ideation.jpg'; // Adjust the path according
 const  Ideation= () => {
   return (
     <section className="persona UJmap" id="UJmap">
-        <h2>User Journey Map</h2>
-        <p>Mapping Emily’s user journey 
-revealed how helpful it 
-would be for users to have 
-access to an online learning platform.
-</p>
+        <h2>Ideation</h2>
+        <p>I conducted a brief brainstorming session to generate ideas for addressing the gaps identified in the competitive audit, with a specific focus on improving <b>course enrollment and creating a pathway for individuals in need to access scholarships.</b> 
+ </p>
         <img src={IdeationImage} alt="User Journey Map" />
     </section>
   );

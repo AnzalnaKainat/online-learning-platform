@@ -1,5 +1,5 @@
 import React from 'react';
-import Beforecourse from '../assets/Digital-wireframe/Course 2.png';
+import Beforecourse from '../assets/Digital-wireframe/Course.png';
 import Aftercourse from '../assets/Course-Info-page.png';
 import Aftercourse1 from '../assets/My-Courses.png';
 

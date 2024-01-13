@@ -7,7 +7,6 @@ import UserJourneyMap from './components/UserJourneyMap';
 import CompetitiveAudit from './components/CompetitiveAudit';
 import Ideation from './components/Ideation';
 import Sitemap from './components/Sitemap';
-
 import DigitalWireframes from './components/DigitalWireframes';
 import LowFidelityPrototype from './components/LowFidelityPrototype';
 import UsabilityParameters from './components/UsabilityParameters';

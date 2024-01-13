@@ -5,14 +5,11 @@ import audit2 from '../assets/CAudit2.PNG';
 const  CompetitiveAudit= () => {
   return (
     <section className="persona UJmap" id="UJmap">
-        <h2>User Journey Map</h2>
-        <p>Mapping Emily’s user journey 
-revealed how helpful it 
-would be for users to have 
-access to an online learning platform.
+        <h2>Competitive Audit</h2>
+        <p>An audit of a few competitor’s products provided direction on gaps and opportunities to address with the virtual scholar website. 
 </p>
-        <img src={audit1} alt="User Journey Map" />
-        <img src={audit2} alt="User Journey Map" />
+        <img src={audit1} alt="Competitive Audit" />
+        <img src={audit2} alt="Competitive audit" />
     </section>
   );
 };
