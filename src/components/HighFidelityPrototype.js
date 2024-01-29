@@ -1,5 +1,5 @@
 import React from 'react';
-import HighFiPrototypeImage from '../assets/OLP-highfi.PNG'; 
+import HighFiPrototypeImage from '../assets/highfi.PNG'; 
 
 const HighFiPrototype = () => {
   return (

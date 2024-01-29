@@ -1,5 +1,5 @@
 import React from "react";
-import LowFiPrototypeImage from '../assets/OLP lowfi.PNG'; // Adjust the path accordingly
+import LowFiPrototypeImage from '../assets/lowfi.PNG'; // Adjust the path accordingly
 
 const LowFiPrototypeSection = () => {
   return (
